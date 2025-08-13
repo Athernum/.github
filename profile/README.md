@@ -13,4 +13,5 @@ Another core principle for us is easy access: all content—whether it's the cod
 <hr/>
 
 **Copyright © 2025 Shaarigan – Schroedinger Entertainment**
+
 Athernum, it's derivates and the accompanying material are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). This license allows you to copy, distribute, perform publicly, remix, modify, and build upon the work, as long as the original creator is credited, the work is not used for commercial purposes, and any changes are shared under the same license. It is valid internationally. If you intend to use the work commercially, please contact the creator
