@@ -1,5 +1,7 @@
 Athernum is a creative brand developed and under the copyright of [Schroedinger Entertainment](https://github.com/SchroedingerEntertainment) . It brings together various open-source projects in the realm of board and video games. While these projects may differ in terms of content and gameplay, they all share a common universe. Athernum aims to create a collaborative and creative platform where both game developers and players can actively contribute to a vibrant, evolving world
 
+Visit us at https://athernum.github.io
+
 <hr/>
 
 ## Why Open Source?
